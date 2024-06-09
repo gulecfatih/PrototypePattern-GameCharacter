@@ -1,0 +1,7 @@
+C:\Users\ilkay\source\repos\PrototypePattern-GameCharacter\PrototypePattern-GameCharacter\bin\Debug\PrototypePattern-GameCharacter.exe.config
+C:\Users\ilkay\source\repos\PrototypePattern-GameCharacter\PrototypePattern-GameCharacter\bin\Debug\PrototypePattern-GameCharacter.exe
+C:\Users\ilkay\source\repos\PrototypePattern-GameCharacter\PrototypePattern-GameCharacter\bin\Debug\PrototypePattern-GameCharacter.pdb
+C:\Users\ilkay\source\repos\PrototypePattern-GameCharacter\PrototypePattern-GameCharacter\obj\Debug\PrototypePattern-GameCharacter.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\PrototypePattern-GameCharacter\PrototypePattern-GameCharacter\obj\Debug\PrototypePattern-GameCharacter.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\PrototypePattern-GameCharacter\PrototypePattern-GameCharacter\obj\Debug\PrototypePattern-GameCharacter.exe
+C:\Users\ilkay\source\repos\PrototypePattern-GameCharacter\PrototypePattern-GameCharacter\obj\Debug\PrototypePattern-GameCharacter.pdb
